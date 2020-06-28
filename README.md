@@ -3,6 +3,10 @@
 [OpenCV](http://opencv.org) Java bindings packaged with native libraries, seamlessly delivered as a turn-key Maven dependency.
 
 ## Fork Notes
+###  Soft Soft Fork
+
+this is a  fork to support my Raspberry PI setup
+
 
 ### Soft Fork
 
